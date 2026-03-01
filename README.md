@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hello 👋
 
-<!--
-**santushtdev/santushtdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science student with an interest in building practical and user-friendly applications. Currently, I am developing my skills in web development and working on small projects to strengthen my fundamentals.
 
-Here are some ideas to get you started:
+## What I'm Working On
+- Learning modern web development
+- Building responsive websites
+- Improving problem-solving skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools & Technologies
+HTML • CSS • JavaScript • React • Git • Github 
+
+## About Me
+I enjoy learning new technologies and continuously improving my technical skills through hands-on projects.
+
+---
+Thank you for visiting my profile.
