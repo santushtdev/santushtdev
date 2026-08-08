@@ -8,7 +8,7 @@ I am a Computer Science student with an interest in building practical and user-
 - Improving problem-solving skills
 
 ## Tools & Technologies
-HTML • CSS • JavaScript • React • Git • Github 
+HTML • CSS • JavaScript •Typecript• React • Git • Github 
 
 ## About Me
 I enjoy learning new technologies and continuously improving my technical skills through hands-on projects.
