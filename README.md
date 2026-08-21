@@ -1,4 +1,4 @@
-# Hello 👋
+# Hello
 
 I am a Computer Science student with an interest in building practical and user-friendly applications. Currently, I am developing my skills in web development and working on small projects to strengthen my fundamentals.
 
